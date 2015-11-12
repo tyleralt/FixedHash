@@ -1,5 +1,5 @@
 require 'test/unit'
-require_relative 'hash'
+require_relative 'FixedHash'
 
 class HashTest < Test::Unit::TestCase
   def setup
